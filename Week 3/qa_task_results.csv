@@ -1,0 +1,431 @@
+question_number,question,model,answer,response_time_seconds
+1,What is the capital of Japan?,DeepSeek-R1,,15.593
+1,What is the capital of Japan?,o3,Tokyo,1.236
+1,What is the capital of Japan?,GPT-4o-mini,The capital of Japan is Tokyo.,0.601
+1,What is the capital of Japan?,Llama-3.1-8B-Instruct,The capital of Japan is Tokyo.,0.146
+2,Which planet is known as the Red Planet?,DeepSeek-R1,"
+The planet known as the **Red Planet** is **Mars**.  
+
+**Why is it called the Red Planet?**  
+Mars appears reddish in the night sky due to its surface, which is rich in **iron oxide** (rust). This gives the planet its distinctive reddish-orange color. The ancient Romans named it after their god of war, likely because of its blood-like hue.  
+
+This nickname has been used for centuries and is widely recognized in astronomy and popular culture. 🌌🔴",13.927
+2,Which planet is known as the Red Planet?,o3,Mars is known as the Red Planet.,1.009
+2,Which planet is known as the Red Planet?,GPT-4o-mini,The planet known as the Red Planet is Mars.,1.511
+2,Which planet is known as the Red Planet?,Llama-3.1-8B-Instruct,The answer is: Mars.,0.476
+3,Who wrote the novel Pride and Prejudice?,DeepSeek-R1,,10.414
+3,Who wrote the novel Pride and Prejudice?,o3,Pride and Prejudice was written by Jane Austen.,1.592
+3,Who wrote the novel Pride and Prejudice?,GPT-4o-mini,"The novel ""Pride and Prejudice"" was written by Jane Austen. It was first published in 1813.",1.399
+3,Who wrote the novel Pride and Prejudice?,Llama-3.1-8B-Instruct,Jane Austen wrote the novel Pride and Prejudice.,0.57
+4,What is the largest ocean on Earth?,DeepSeek-R1,,11.37
+4,What is the largest ocean on Earth?,o3,The Pacific Ocean is the largest ocean on Earth.,1.185
+4,What is the largest ocean on Earth?,GPT-4o-mini,The largest ocean on Earth is the Pacific Ocean.,1.356
+4,What is the largest ocean on Earth?,Llama-3.1-8B-Instruct,The largest ocean on Earth is the Pacific Ocean.,1.839
+5,How many continents are there on Earth?,DeepSeek-R1,,19.924
+5,How many continents are there on Earth?,o3,There are seven continents on Earth.,0.94
+5,How many continents are there on Earth?,GPT-4o-mini,"There are seven continents on Earth: Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",1.531
+5,How many continents are there on Earth?,Llama-3.1-8B-Instruct,"There are 7 continents on Earth. These are:
+
+1. Africa
+2. Antarctica
+3. Asia
+4. Australia
+5. Europe
+6. North America
+7. South America",2.456
+6,What is the chemical symbol for gold?,DeepSeek-R1,,9.38
+6,What is the chemical symbol for gold?,o3,The chemical symbol for gold is Au.,1.019
+6,What is the chemical symbol for gold?,GPT-4o-mini,The chemical symbol for gold is Au.,0.663
+6,What is the chemical symbol for gold?,Llama-3.1-8B-Instruct,The chemical symbol for gold is Au.,0.502
+7,Who painted the Mona Lisa?,DeepSeek-R1,"
+The **Mona Lisa** was painted by the renowned Italian artist **Leonardo da Vinci**.  
+
+**Key details:**  
+- **Full name:** Leonardo di ser Piero da Vinci  
+- **Time period:** Painted between approximately **1503 and 1506** (though he may have continued working on it until 1517).  
+- **Current location:** Housed in the **Louvre Museum** in Paris, France.  
+
+The painting is celebrated as one of the most famous and influential artworks of the Renaissance, known for its enigmatic smile and masterful technique.",11.465
+7,Who painted the Mona Lisa?,o3,The Mona Lisa was painted by Leonardo da Vinci.,1.083
+7,Who painted the Mona Lisa?,GPT-4o-mini,The Mona Lisa was painted by the Italian artist Leonardo da Vinci.,0.699
+7,Who painted the Mona Lisa?,Llama-3.1-8B-Instruct,The Mona Lisa was painted by the Italian artist Leonardo da Vinci.,0.714
+8,What is the largest planet in our solar system?,DeepSeek-R1,,13.141
+8,What is the largest planet in our solar system?,o3,The largest planet in our solar system is Jupiter.,1.177
+8,What is the largest planet in our solar system?,GPT-4o-mini,The largest planet in our solar system is Jupiter.,0.655
+8,What is the largest planet in our solar system?,Llama-3.1-8B-Instruct,The largest planet in our solar system is Jupiter.,0.525
+9,What is the boiling point of water at sea level in Celsius?,DeepSeek-R1,,8.898
+9,What is the boiling point of water at sea level in Celsius?,o3,The boiling point of water at sea level is 100 °C.,1.765
+9,What is the boiling point of water at sea level in Celsius?,GPT-4o-mini,The boiling point of water at sea level is 100 degrees Celsius.,1.277
+9,What is the boiling point of water at sea level in Celsius?,Llama-3.1-8B-Instruct,The boiling point of water at sea level is 100 degrees Celsius.,0.76
+10,Which country is famous for the Great Wall?,DeepSeek-R1,,12.892
+10,Which country is famous for the Great Wall?,o3,The Great Wall is famously located in China.,1.111
+10,Which country is famous for the Great Wall?,GPT-4o-mini,China is famous for the Great Wall.,0.552
+10,Which country is famous for the Great Wall?,Llama-3.1-8B-Instruct,The country famous for the Great Wall is China.,0.577
+11,What is the smallest prime number?,DeepSeek-R1,,11.659
+11,What is the smallest prime number?,o3,The smallest prime number is 2.,1.86
+11,What is the smallest prime number?,GPT-4o-mini,The smallest prime number is 2.,0.651
+11,What is the smallest prime number?,Llama-3.1-8B-Instruct,The answer is: 2.,0.708
+12,Who was the first person to walk on the Moon?,DeepSeek-R1,,11.626
+12,Who was the first person to walk on the Moon?,o3,Neil Armstrong,1.232
+12,Who was the first person to walk on the Moon?,GPT-4o-mini,"The first person to walk on the Moon was Neil Armstrong. He took his historic step on July 20, 1969, during NASA's Apollo 11 mission.",0.789
+12,Who was the first person to walk on the Moon?,Llama-3.1-8B-Instruct,The first person to walk on the Moon was Neil Armstrong.,0.605
+13,What is the currency of the United Kingdom?,DeepSeek-R1,,13.2
+13,What is the currency of the United Kingdom?,o3,The currency of the United Kingdom is the pound sterling (GBP).,1
+13,What is the currency of the United Kingdom?,GPT-4o-mini,"The currency of the United Kingdom is the British Pound Sterling, often simply referred to as the pound, and its symbol is £.",0.693
+13,What is the currency of the United Kingdom?,Llama-3.1-8B-Instruct,The currency of the United Kingdom is the Pound Sterling (£).,1.612
+14,Which gas do humans need to breathe to survive?,DeepSeek-R1,"
+The gas that humans need to breathe to survive is **oxygen (O₂)**.
+
+**Key details:**
+1. **Role:** Oxygen is essential for **cellular respiration**, the process where cells convert nutrients (like glucose) into energy (ATP).
+2. **Air Composition:** While Earth's atmosphere is ~78% nitrogen and ~21% oxygen, only oxygen is directly used by humans for survival.
+3. **Process:** We inhale oxygen, which enters the bloodstream via the lungs. It's then transported to cells throughout the body.
+4. **Consequence:** Without oxygen, brain damage occurs within minutes, leading to death.
+
+**Note:** Other gases like nitrogen (N₂) make up most of the air we breathe but are not metabolically essential for human respiration. Carbon dioxide (CO₂) is a waste product we exhale.",21.651
+14,Which gas do humans need to breathe to survive?,o3,Humans need to breathe oxygen to survive.,1.149
+14,Which gas do humans need to breathe to survive?,GPT-4o-mini,Humans need to breathe oxygen to survive.,0.751
+14,Which gas do humans need to breathe to survive?,Llama-3.1-8B-Instruct,"The answer is: Oxygen (O2). Humans need to breathe in oxygen to survive, as it is essential for the body's cells to function properly and for the brain to receive the oxygen it needs to stay alive.",1.945
+15,What is the capital of Australia?,DeepSeek-R1,,19.244
+15,What is the capital of Australia?,o3,The capital of Australia is Canberra.,1.098
+15,What is the capital of Australia?,GPT-4o-mini,The capital of Australia is Canberra.,0.635
+15,What is the capital of Australia?,Llama-3.1-8B-Instruct,The capital of Australia is Canberra.,0.656
+16,How many sides does a hexagon have?,DeepSeek-R1,,14.696
+16,How many sides does a hexagon have?,o3,A hexagon has 6 sides.,1.256
+16,How many sides does a hexagon have?,GPT-4o-mini,A hexagon has six sides.,0.566
+16,How many sides does a hexagon have?,Llama-3.1-8B-Instruct,A hexagon has 6 sides.,0.773
+17,Who developed the theory of relativity?,DeepSeek-R1,,20.351
+17,Who developed the theory of relativity?,o3,Albert Einstein developed the theory of relativity.,1.955
+17,Who developed the theory of relativity?,GPT-4o-mini,"The theory of relativity was developed by Albert Einstein. It consists of two parts: special relativity, introduced in 1905, and general relativity, published in 1915.",0.92
+17,Who developed the theory of relativity?,Llama-3.1-8B-Instruct,The theory of relativity was developed by Albert Einstein.,0.612
+18,What is the largest mammal in the world?,DeepSeek-R1,,25.138
+18,What is the largest mammal in the world?,o3,The blue whale (Balaenoptera musculus) is the largest mammal in the world.,1.862
+18,What is the largest mammal in the world?,GPT-4o-mini,The largest mammal in the world is the blue whale. Blue whales can reach lengths of up to 100 feet (30 meters) and can weigh as much as 200 tons or more.,0.877
+18,What is the largest mammal in the world?,Llama-3.1-8B-Instruct,The largest mammal in the world is the blue whale (Balaenoptera musculus).,0.617
+19,Which organ pumps blood throughout the human body?,DeepSeek-R1,,20.975
+19,Which organ pumps blood throughout the human body?,o3,The heart.,1.135
+19,Which organ pumps blood throughout the human body?,GPT-4o-mini,The organ that pumps blood throughout the human body is the heart.,1.243
+19,Which organ pumps blood throughout the human body?,Llama-3.1-8B-Instruct,The heart pumps blood throughout the human body.,1.429
+20,What is the hardest natural substance on Earth?,DeepSeek-R1,"
+The hardest **natural** substance on Earth is **diamond**.  
+
+### Key Details:
+1. **Composition**: Diamond is made of carbon atoms arranged in a strong, rigid tetrahedral crystal structure.
+2. **Hardness Scale**: It ranks **10 on the Mohs scale of mineral hardness**, the highest possible rating.
+3. **Why It's Hardest**: The covalent bonds between carbon atoms are extremely strong and require immense pressure to break, making diamonds resistant to scratching by any other natural material.
+
+### Note:
+- While synthetic materials (like aggregated diamond nanorods) or rare natural substances (e.g., lonsdaleite) may theoretically be harder, diamond remains the **proven hardest naturally occurring substance** found in significant quantities on Earth.  
+
+This answer reflects the consensus in geology and materials science.",20.476
+20,What is the hardest natural substance on Earth?,o3,"Diamond, which ranks highest (10) on the Mohs scale of mineral hardness, is the hardest naturally occurring substance on Earth.",3.016
+20,What is the hardest natural substance on Earth?,GPT-4o-mini,The hardest natural substance on Earth is diamond.,0.582
+20,What is the hardest natural substance on Earth?,Llama-3.1-8B-Instruct,The hardest natural substance on Earth is diamond.,0.572
+21,Which country gifted the Statue of Liberty to the United States?,DeepSeek-R1,"The **Statue of Liberty** was gifted to the United States by **France**.  
+
+### Key Details:
+- **Reason**: To commemorate the **centennial of American independence** (1876) and celebrate the **friendship between the two nations**.
+- **Designer**: French sculptor **Frédéric Auguste Bartholdi**.
+- **Engineer**: **Gustave Eiffel** (designer of the Eiffel Tower) created the internal iron framework.
+- **Dedication**: The statue was officially unveiled in New York Harbor on **October 28, 1886**.  
+
+The statue, formally named ""Liberty Enlightening the World,"" remains a universal symbol of freedom and democracy.",22.146
+21,Which country gifted the Statue of Liberty to the United States?,o3,France,1.988
+21,Which country gifted the Statue of Liberty to the United States?,GPT-4o-mini,France gifted the Statue of Liberty to the United States.,0.629
+21,Which country gifted the Statue of Liberty to the United States?,Llama-3.1-8B-Instruct,The country that gifted the Statue of Liberty to the United States is France.,0.588
+22,What is the main language spoken in Brazil?,DeepSeek-R1,,15.904
+22,What is the main language spoken in Brazil?,o3,The main language spoken in Brazil is Portuguese.,1.073
+22,What is the main language spoken in Brazil?,GPT-4o-mini,The main language spoken in Brazil is Portuguese.,1.506
+22,What is the main language spoken in Brazil?,Llama-3.1-8B-Instruct,The main language spoken in Brazil is Portuguese.,0.774
+23,How many bones are there in an adult human body?,DeepSeek-R1,,19.579
+23,How many bones are there in an adult human body?,o3,An adult human body contains 206 bones.,1.954
+23,How many bones are there in an adult human body?,GPT-4o-mini,An adult human body typically has 206 bones.,0.663
+23,How many bones are there in an adult human body?,Llama-3.1-8B-Instruct,There are 206 bones in an adult human body.,0.564
+24,Which planet is closest to the Sun?,DeepSeek-R1,"
+The planet closest to the Sun is **Mercury**.  
+
+It orbits at an average distance of about **57.9 million kilometers (36 million miles)** from the Sun and completes an orbit every 88 Earth days. As the innermost planet in our solar system, Mercury experiences extreme temperatures, ranging from scorching highs of 430°C (800°F) during the day to freezing lows of -180°C (-290°F) at night.  
+
+This is a well-established fact in astronomy, confirmed by observations from missions like NASA's *MESSENGER* and *Mariner 10*.",16.716
+24,Which planet is closest to the Sun?,o3,Mercury is the planet closest to the Sun.,1.229
+24,Which planet is closest to the Sun?,GPT-4o-mini,The planet closest to the Sun is Mercury.,0.707
+24,Which planet is closest to the Sun?,Llama-3.1-8B-Instruct,The planet closest to the Sun is Mercury.,0.943
+25,Who wrote Romeo and Juliet?,DeepSeek-R1,"
+The author of **Romeo and Juliet** is **William Shakespeare**.
+
+### Key Details:
+- **Full Name**: William Shakespeare  
+- **Nationality**: English  
+- **Era**: Elizabethan/Jacobean (late 16th century)  
+- **Genre**: Tragedy  
+- **Written**: Circa 1595–1596  
+
+Romeo and Juliet is one of Shakespeare’s most famous plays, exploring themes of love, fate, and family conflict. It has inspired countless adaptations in literature, theater, film, and music worldwide.",13.146
+25,Who wrote Romeo and Juliet?,o3,Romeo and Juliet was written by William Shakespeare.,1.432
+25,Who wrote Romeo and Juliet?,GPT-4o-mini,Romeo and Juliet was written by William Shakespeare.,0.639
+25,Who wrote Romeo and Juliet?,Llama-3.1-8B-Instruct,"The answer to the question is:
+
+William Shakespeare wrote Romeo and Juliet.",0.726
+26,What is the largest desert in the world?,DeepSeek-R1,"
+The **largest desert in the world is Antarctica**.
+
+Here's why:
+
+1.  **Definition of a Desert:** A desert is defined by its **low precipitation** (rain, snow, etc.), not by its temperature or sand dunes. Deserts receive less than 250 mm (10 inches) of precipitation per year on average.
+2.  **Antarctica's Size:** Antarctica covers approximately **14 million square kilometers** (5.5 million square miles).
+3.  **Antarctica's Climate:** Despite being covered in ice, Antarctica is incredibly dry. It receives an average of only **50 mm (2 inches) of precipitation per year** (mostly as snow) in its interior, qualifying it as a desert.
+4.  **Comparison:** The Sahara Desert in Africa, often mistakenly thought to be the largest, is the world's largest *hot* desert, covering about **9.2 million square kilometers** (3.5 million square miles). Antarctica is significantly larger.
+
+**In summary:** While Antarctica is cold and icy, its extremely low precipitation makes it the largest desert on Earth.",18.911
+26,What is the largest desert in the world?,o3,"The largest desert on Earth is the Antarctic Desert (the continent of Antarctica), a cold-polar desert covering about 14 million square kilometres (5.4 million square miles).",2.238
+26,What is the largest desert in the world?,GPT-4o-mini,"The largest desert in the world is the Antarctic Desert. It covers an area of about 14 million square kilometers (5.5 million square miles), making it larger than the Arctic Desert and any other desert on Earth.",1.013
+26,What is the largest desert in the world?,Llama-3.1-8B-Instruct,The largest desert in the world is the Antarctic Desert. It covers an area of approximately 14 million square kilometers (5.4 million square miles) and spans the entire continent of Antarctica.,0.147
+27,What is H2O commonly known as?,DeepSeek-R1,,13.399
+27,What is H2O commonly known as?,o3,H₂O is commonly known as water.,0.973
+27,What is H2O commonly known as?,GPT-4o-mini,H2O is commonly known as water.,1.339
+27,What is H2O commonly known as?,Llama-3.1-8B-Instruct,The answer is: Water.,1.612
+28,Which instrument is used to measure temperature?,DeepSeek-R1,"
+The instrument used to measure temperature is a **thermometer**.  
+
+### Key Details:
+- **How it works**: Thermometers detect changes in physical properties (like liquid expansion, electrical resistance, or infrared radiation) and convert them into temperature readings.  
+- **Common types**:  
+  - **Liquid-in-glass** (e.g., mercury or alcohol thermometers).  
+  - **Digital** (uses electronic sensors).  
+  - **Infrared** (measures thermal radiation without contact).  
+- **Units**: Temperature is typically reported in **Celsius (°C)**, **Fahrenheit (°F)**, or **Kelvin (K)**.  
+
+This instrument is essential in fields like meteorology, medicine, cooking, and science.",12.72
+28,Which instrument is used to measure temperature?,o3,Thermometer,3.638
+28,Which instrument is used to measure temperature?,GPT-4o-mini,The instrument used to measure temperature is called a thermometer.,1.093
+28,Which instrument is used to measure temperature?,Llama-3.1-8B-Instruct,The instrument used to measure temperature is a thermometer.,0.52
+29,What is the capital of Canada?,DeepSeek-R1,"The capital of Canada is **Ottawa**.
+
+**Key details:**
+- Located in the province of Ontario, on the border with Québec.
+- Designated as the capital in 1857 by Queen Victoria.
+- Home to Canada's federal government institutions, including Parliament Hill.
+
+*Note: While cities like Toronto, Montréal, or Vancouver are larger, Ottawa is the official seat of government.*",13.497
+29,What is the capital of Canada?,o3,The capital of Canada is Ottawa.,1.73
+29,What is the capital of Canada?,GPT-4o-mini,The capital of Canada is Ottawa.,0.523
+29,What is the capital of Canada?,Llama-3.1-8B-Instruct,The capital of Canada is Ottawa.,0.561
+30,Which animal is commonly known as the King of the Jungle?,DeepSeek-R1,"The animal commonly known as the **King of the Jungle** is the **lion**.
+
+**Why?**
+1. **Cultural Symbolism**: Lions have long been symbols of strength, courage, and leadership in human cultures (e.g., ancient Egypt, European heraldry).
+2. **Dominance**: Male lions, with their impressive manes, defend prides and territories, embodying authority.
+3. **Misnomer**: Ironically, lions primarily inhabit **savannas and grasslands**, not jungles. The title likely arose from a mix of historical language use (""jungle"" as a metaphor for wilderness) and their top-predator status.
+
+So, while the term ""jungle"" isn't their actual habitat, the **lion** universally holds this iconic title. 🦁",19.151
+30,Which animal is commonly known as the King of the Jungle?,o3,The animal commonly known as the “King of the Jungle” is the lion.,1.063
+30,Which animal is commonly known as the King of the Jungle?,GPT-4o-mini,The animal commonly known as the King of the Jungle is the lion.,0.81
+30,Which animal is commonly known as the King of the Jungle?,Llama-3.1-8B-Instruct,"The animal commonly known as the ""King of the Jungle"" is the Lion.",1.003
+31,What is the process by which plants convert sunlight into energy called?,DeepSeek-R1,"
+The process by which plants convert sunlight into energy is called **photosynthesis**.  
+
+### Key Details:
+- **Definition**: Photosynthesis is the biochemical process where plants, algae, and some bacteria use sunlight, carbon dioxide (CO₂), and water (H₂O) to produce glucose (sugar) and oxygen (O₂).
+- **Chemical Equation**:  
+  \( 6CO_2 + 6H_2O + \text{light energy} \rightarrow C_6H_{12}O_6 + 6O_2 \)  
+  *(Carbon Dioxide + Water + Sunlight → Glucose + Oxygen)*  
+- **Purpose**: Converts solar energy into **chemical energy** (stored in glucose), which fuels growth, reproduction, and other life processes.
+- **Where it Occurs**: In chloroplasts (organelles containing chlorophyll, the pigment that captures light).
+
+This process is fundamental to life on Earth, as it produces oxygen and forms the base of the food chain. 🌱☀️",14.488
+31,What is the process by which plants convert sunlight into energy called?,o3,The process is called photosynthesis.,0.97
+31,What is the process by which plants convert sunlight into energy called?,GPT-4o-mini,The process by which plants convert sunlight into energy is called photosynthesis.,1.445
+31,What is the process by which plants convert sunlight into energy called?,Llama-3.1-8B-Instruct,The process by which plants convert sunlight into energy is called **PHOTOSYNTHESIS**.,1.824
+32,How many players are there on a standard football soccer team on the field?,DeepSeek-R1,,10.72
+32,How many players are there on a standard football soccer team on the field?,o3,A standard soccer (association football) team has 11 players on the field at any one time (10 outfield players plus 1 goalkeeper).,1.837
+32,How many players are there on a standard football soccer team on the field?,GPT-4o-mini,A standard football (soccer) team has 11 players on the field.,0.552
+32,How many players are there on a standard football soccer team on the field?,Llama-3.1-8B-Instruct,There are 11 players on a standard football (soccer) team on the field at any given time.,0.577
+33,What is the currency of Japan?,DeepSeek-R1,"The currency of Japan is the **Yen**.  
+
+**Symbol:** ¥  
+**ISO Code:** JPY  
+
+This has been Japan's official currency since the Meiji Restoration in 1871.",11.78
+33,What is the currency of Japan?,o3,The currency of Japan is the Japanese yen.,1.156
+33,What is the currency of Japan?,GPT-4o-mini,"The currency of Japan is the Japanese yen, symbolized as ¥ and abbreviated as JPY.",1.378
+33,What is the currency of Japan?,Llama-3.1-8B-Instruct,The currency of Japan is the Japanese Yen (JPY).,0.149
+34,Which is the longest river in India?,DeepSeek-R1,,15.369
+34,Which is the longest river in India?,o3,The Ganga (Ganges) River is the longest river in India.,2.58
+34,Which is the longest river in India?,GPT-4o-mini,"The longest river in India is the Ganges (Ganga). It flows for about 2,525 kilometers (1,569 miles) from its source in the Himalayas to its mouth in the Bay of Bengal.",1.676
+34,Which is the longest river in India?,Llama-3.1-8B-Instruct,"The longest river in India is the Ganges (also known as the Ganga). It is approximately 2,525 kilometers (1,569 miles) long.",1.535
+35,Who discovered penicillin?,DeepSeek-R1,"The discovery of penicillin is credited to **Sir Alexander Fleming**, a Scottish bacteriologist. Here's a clear breakdown:
+
+1. **Discovery (1928)**:  
+   Fleming observed that a mold called *Penicillium notatum* killed bacteria in a petri dish at St. Mary's Hospital in London. He named the substance ""penicillin.""
+
+2. **Development into Medicine (1930s–1940s)**:  
+   While Fleming identified penicillin, he couldn't purify it for medical use. **Howard Florey** (Australian pathologist) and **Ernst Chain** (German-born biochemist) later isolated and mass-produced it at the University of Oxford, making it a practical antibiotic.
+
+3. **Recognition**:  
+   All three scientists—**Fleming, Florey, and Chain**—shared the **1945 Nobel Prize in Physiology or Medicine** for their work.
+
+**Key Takeaway**:  
+Fleming discovered penicillin's antibacterial properties, but Florey and Chain transformed it into a life-saving drug.",55.491
+35,Who discovered penicillin?,o3,Penicillin was discovered by Sir Alexander Fleming in 1928.,2.063
+35,Who discovered penicillin?,GPT-4o-mini,Penicillin was discovered by Alexander Fleming in 1928.,0.577
+35,Who discovered penicillin?,Llama-3.1-8B-Instruct,Alexander Fleming discovered penicillin.,0.55
+36,What is the nearest star to Earth?,DeepSeek-R1,"
+The nearest star to Earth is **the Sun**.  
+
+### Key details:
+- **Distance**: Approximately 150 million kilometers (93 million miles), or about **8.3 light-minutes** away.
+- **Type**: A G-type main-sequence star (yellow dwarf) that provides Earth with light and heat.
+
+### For context:
+- The **next closest star** after the Sun is **Proxima Centauri**, part of the Alpha Centauri star system, located about **4.24 light-years** away.  
+
+**Note**: While many people think of ""stars"" as distant points of light in the night sky, the Sun is unequivocally Earth's closest star.",13.426
+36,What is the nearest star to Earth?,o3,The nearest star to Earth is the Sun.,1.135
+36,What is the nearest star to Earth?,GPT-4o-mini,The nearest star to Earth is Proxima Centauri. It is part of the Alpha Centauri star system and is located approximately 4.24 light-years away from our planet.,0.743
+36,What is the nearest star to Earth?,Llama-3.1-8B-Instruct,The nearest star to Earth is the Sun.,0.773
+37,Which metal is liquid at room temperature?,DeepSeek-R1,"The metal that is **liquid at room temperature** (around 20–25°C or 68–77°F) is **mercury (Hg)**.  
+
+**Key details:**  
+- Mercury has a melting point of **−38.83°C (−37.89°F)**, so it remains liquid under typical indoor conditions.  
+- It is the **only elemental metal** that is liquid at standard room temperature.  
+
+**Note:** Gallium (Ga) melts at **29.76°C (85.57°F)**, so it may liquefy on a warm day but is solid at typical room temperatures. Cesium (Cs) and francium (Fr) also have low melting points but are solid below 28°C and 27°C, respectively.  
+
+**Answer: Mercury (Hg)**.",20.983
+37,Which metal is liquid at room temperature?,o3,Mercury (chemical symbol Hg) is the only metal that is naturally liquid at ordinary room temperature.,2.018
+37,Which metal is liquid at room temperature?,GPT-4o-mini,The metal that is liquid at room temperature is mercury.,1.341
+37,Which metal is liquid at room temperature?,Llama-3.1-8B-Instruct,The answer is: Mercury.,0.539
+38,What is the capital of France?,DeepSeek-R1,"
+The capital of France is **Paris**.  
+
+This has been the case since the Middle Ages, and Paris remains the country's political, cultural, and economic center.",9.611
+38,What is the capital of France?,o3,The capital of France is Paris.,1.206
+38,What is the capital of France?,GPT-4o-mini,The capital of France is Paris.,0.63
+38,What is the capital of France?,Llama-3.1-8B-Instruct,The capital of France is Paris.,0.436
+39,How many degrees are in a right angle?,DeepSeek-R1,"
+A right angle contains **90 degrees**.  
+
+This is a fundamental measurement in geometry, where a right angle is formed when two perpendicular lines intersect, creating an angle equal to one-fourth of a full circle (360° ÷ 4 = 90°).",11.128
+39,How many degrees are in a right angle?,o3,A right angle measures 90 degrees.,1.139
+39,How many degrees are in a right angle?,GPT-4o-mini,A right angle measures 90 degrees.,0.785
+39,How many degrees are in a right angle?,Llama-3.1-8B-Instruct,A right angle is 90 degrees.,0.861
+40,Which country is known as the Land of the Rising Sun?,DeepSeek-R1,"
+The country known as the **""Land of the Rising Sun""** is **Japan**.
+
+**Why?**
+1.  **Name Origin:** Japan's name in Japanese is **""Nihon""** (日本) or **""Nippon""** (日本), which literally translates to **""sun origin""** or **""where the sun comes from""**. This name reflects Japan's position east of the Asian mainland, where the sun appears to rise.
+2.  **Historical Context:** The term dates back to at least the 7th century. Japanese Prince Shōtoku used it in official correspondence with China's Sui Dynasty, referring to Japan as the land ""where the sun rises"" (in contrast to China, which was seen as the land ""where the sun sets"").
+3.  **Cultural Symbolism:** The sun is a central symbol in Japanese culture and mythology, represented prominently on the national flag (the *Hinomaru* - a red sun disc on a white background).
+
+So, **Japan** is universally recognized as the Land of the Rising Sun.",15.824
+40,Which country is known as the Land of the Rising Sun?,o3,Japan,1.08
+40,Which country is known as the Land of the Rising Sun?,GPT-4o-mini,Japan is known as the Land of the Rising Sun.,1.343
+40,Which country is known as the Land of the Rising Sun?,Llama-3.1-8B-Instruct,"The answer to the question is Japan. Japan is commonly known as the Land of the Rising Sun, due to its location east of Asia and the fact that its flag features a red circle on a white background, which is often interpreted as a representation of the sun.",1.866
+41,What is the largest internal organ in the human body?,DeepSeek-R1,"The **liver** is the largest **internal** organ in the human body.
+
+*   **Average Weight:** Approximately 1.4 kilograms (about 3 pounds) in an adult.
+*   **Location:** Primarily in the upper right abdomen, just below the diaphragm.
+*   **Key Functions:** It performs over 500 vital functions, including detoxifying the blood, producing bile for digestion, storing glycogen and vitamins, synthesizing proteins, and regulating blood clotting.
+
+**Why not other organs?**
+
+*   **Skin:** While the skin is the largest organ *overall* in the human body, it is classified as an **external** organ, not internal.
+*   **Small Intestine:** While very long (about 6 meters/20 feet), it is lighter and less massive than the liver.
+*   **Brain:** Significant, but smaller in mass than the liver (average ~1.3-1.4 kg).
+*   **Lungs:** Combined weight is less than the liver.
+
+Therefore, when considering strictly **internal** organs by mass, the liver holds the title.",24.08
+41,What is the largest internal organ in the human body?,o3,The liver is the largest internal organ in the human body.,2.643
+41,What is the largest internal organ in the human body?,GPT-4o-mini,The largest internal organ in the human body is the liver.,1.874
+41,What is the largest internal organ in the human body?,Llama-3.1-8B-Instruct,The largest internal organ in the human body is the liver.,2.072
+42,Which planet is famous for its prominent ring system?,DeepSeek-R1,"
+The planet famous for its prominent ring system is **Saturn**.
+
+**Why Saturn?**
+1. **Most Visible Rings:** Saturn's rings are incredibly bright, extensive, and easily visible even through small telescopes from Earth.
+2. **Composition:** Made primarily of billions of ice particles and rock fragments, ranging in size from dust grains to mountains.
+3. **Scale:** The ring system spans up to **282,000 km (175,000 miles)** in diameter but is remarkably thin—often less than **1 km (0.6 miles)** thick.
+4. **Iconic Status:** Saturn's rings are a defining feature in astronomy, making it one of the most recognizable planets in our solar system.
+
+While Jupiter, Uranus, and Neptune also have ring systems, theirs are much fainter and less spectacular compared to Saturn's.",10.613
+42,Which planet is famous for its prominent ring system?,o3,Saturn.,1.932
+42,Which planet is famous for its prominent ring system?,GPT-4o-mini,The planet famous for its prominent ring system is Saturn.,1.641
+42,Which planet is famous for its prominent ring system?,Llama-3.1-8B-Instruct,The answer is: Saturn.,1.026
+43,What is the study of earthquakes called?,DeepSeek-R1,"
+The study of earthquakes is called **seismology**.
+
+Here's a bit more detail:
+*   **Seismology** comes from the Greek words ""seismos"" (earthquake) and ""logia"" (study).
+*   It involves studying seismic waves generated by earthquakes, volcanic activity, explosions, and other sources.
+*   Scientists who specialize in this field are called **seismologists**.
+*   Seismology also helps us understand the Earth's internal structure, plate tectonics, and assess seismic hazards.",12.911
+43,What is the study of earthquakes called?,o3,The study of earthquakes is called seismology.,0.957
+43,What is the study of earthquakes called?,GPT-4o-mini,The study of earthquakes is called seismology.,0.616
+43,What is the study of earthquakes called?,Llama-3.1-8B-Instruct,The study of earthquakes is called Seismology.,0.565
+44,Who is credited with inventing the telephone?,DeepSeek-R1,"
+**Alexander Graham Bell** is officially credited with inventing the telephone. He received the first U.S. patent for an ""apparatus for transmitting vocal or other sounds telegraphically"" (**U.S. Patent No. 174,465**) on **March 7, 1876**.  
+
+### Important Context:
+1. **Controversy**:  
+   - **Elisha Gray** filed a patent caveat (a preliminary claim) for a similar device on the **same day** as Bell (February 14, 1876). A legal battle ensued, but Bell's patent was upheld.  
+   - **Antonio Meucci** demonstrated a ""talking telegraph"" in the 1850s-1860s and filed a caveat in 1871. Due to financial hardship, he couldn't renew it. In 2002, the U.S. House of Representatives passed a resolution recognizing Meucci's contributions, though Bell retains patent credit.  
+
+2. **Bell's First Transmission**:  
+   Bell famously spoke the first intelligible words over the telephone to his assistant, Thomas Watson, on **March 10, 1876**: *""Mr. Watson, come here—I want to see you.""*  
+
+While Bell is the historically recognized inventor due to his patent and commercialization efforts, the telephone's development involved multiple innovators.",18.975
+44,Who is credited with inventing the telephone?,o3,Alexander Graham Bell is generally credited with inventing the telephone.,1.792
+44,Who is credited with inventing the telephone?,GPT-4o-mini,Alexander Graham Bell is credited with inventing the telephone. He was awarded the first US patent for the invention in 1876.,0.813
+44,Who is credited with inventing the telephone?,Llama-3.1-8B-Instruct,Alexander Graham Bell is credited with inventing the telephone.,0.534
+45,What is the freezing point of water in Celsius?,DeepSeek-R1,"
+The freezing point of water is **0 degrees Celsius (°C)**.  
+
+This is under standard atmospheric pressure (1 atmosphere). At this temperature, pure liquid water transitions into solid ice.  
+
+**Note:** Factors like impurities (salt, minerals) or increased pressure can lower the freezing point slightly, but for pure water at sea level, it is precisely **0°C**.",12.071
+45,What is the freezing point of water in Celsius?,o3,The freezing point of water is 0 °C (zero degrees Celsius).,1.213
+45,What is the freezing point of water in Celsius?,GPT-4o-mini,The freezing point of water in Celsius is 0 degrees Celsius.,0.584
+45,What is the freezing point of water in Celsius?,Llama-3.1-8B-Instruct,The freezing point of water in Celsius is 0°C.,0.503
+46,Which is the largest country in the world by land area?,DeepSeek-R1,,12.935
+46,Which is the largest country in the world by land area?,o3,Russia is the largest country in the world by land area.,1.141
+46,Which is the largest country in the world by land area?,GPT-4o-mini,The largest country in the world by land area is Russia.,0.738
+46,Which is the largest country in the world by land area?,Llama-3.1-8B-Instruct,The answer is Russia.,0.342
+47,What is the capital of Italy?,DeepSeek-R1,"The capital of Italy is **Rome**.  
+
+Rome is not only the political capital but also the country's largest city and a historic center of culture, art, and ancient civilization. It became the capital of unified Italy in 1871.",13.313
+47,What is the capital of Italy?,o3,The capital of Italy is Rome.,1.224
+47,What is the capital of Italy?,GPT-4o-mini,The capital of Italy is Rome.,0.549
+47,What is the capital of Italy?,Llama-3.1-8B-Instruct,The capital of Italy is Rome.,0.547
+48,Which vitamin is primarily produced by the skin when exposed to sunlight?,DeepSeek-R1,,15.404
+48,Which vitamin is primarily produced by the skin when exposed to sunlight?,o3,The vitamin primarily produced in the skin when it is exposed to sunlight is Vitamin D.,1.735
+48,Which vitamin is primarily produced by the skin when exposed to sunlight?,GPT-4o-mini,The vitamin primarily produced by the skin when exposed to sunlight is vitamin D.,0.596
+48,Which vitamin is primarily produced by the skin when exposed to sunlight?,Llama-3.1-8B-Instruct,The answer is: Vitamin D.,1.455
+49,What is the basic unit of life?,DeepSeek-R1,,12.619
+49,What is the basic unit of life?,o3,The basic unit of life is the cell.,1.945
+49,What is the basic unit of life?,GPT-4o-mini,"The basic unit of life is the cell. Cells are the smallest structural and functional units of living organisms, and they can exist as independent entities (as in unicellular organisms) or as part of multicellular organisms.",1.042
+49,What is the basic unit of life?,Llama-3.1-8B-Instruct,The basic unit of life is a cell.,0.52
+50,Which blood cells are primarily responsible for fighting infections?,DeepSeek-R1,"
+The **white blood cells (leukocytes)** are primarily responsible for fighting infections. They are a key part of the immune system.
+
+Here's a breakdown of the main types involved:
+
+1.  **Neutrophils:** The most abundant type. They are ""first responders"" that quickly engulf and destroy bacteria and fungi (phagocytosis).
+2.  **Lymphocytes:**
+    *   **B cells:** Produce antibodies that target specific pathogens (viruses, bacteria).
+    *   **T cells:** Directly destroy infected or cancerous cells (cytotoxic T cells) and help regulate the immune response (helper T cells).
+3.  **Monocytes:** Circulate in the blood and migrate into tissues, where they mature into **macrophages**. Macrophages are powerful phagocytes that engulf pathogens and dead cells, and help activate other immune cells.
+4.  **Eosinophils:** Primarily combat parasitic infections and are involved in allergic reactions.
+5.  **Basophils:** Release histamine and other chemicals involved in allergic responses and may play a role in fighting parasites.
+
+**In summary:** While all white blood cells contribute to immunity, **neutrophils** (for rapid bacterial/fungal response) and **lymphocytes** (B and T cells for specific, adaptive immunity) are particularly crucial for fighting infections.",17.574
+50,Which blood cells are primarily responsible for fighting infections?,o3,White blood cells (leukocytes).,2.151
+50,Which blood cells are primarily responsible for fighting infections?,GPT-4o-mini,"The blood cells primarily responsible for fighting infections are white blood cells, also known as leukocytes. There are several types of white blood cells, including neutrophils, lymphocytes, monocytes, eosinophils, and basophils, each playing a specific role in the immune response to pathogens.",1.322
+50,Which blood cells are primarily responsible for fighting infections?,Llama-3.1-8B-Instruct,"The blood cells primarily responsible for fighting infections are **White Blood Cells (WBCs)**, also known as **Leukocytes**.
+
+More specifically, the three main types of WBCs that play a crucial role in fighting infections are:
+
+1. **Neutrophils**: They engulf and destroy bacteria and other foreign particles.
+2. **Lymphocytes**: They produce antibodies to help fight off infections and remember pathogens to mount a more effective response in the future.
+3. **Monocytes**: They mature into macrophages, which engulf and digest foreign particles and bacteria.
+
+These WBCs work together to protect the body from infections and diseases.",3.923

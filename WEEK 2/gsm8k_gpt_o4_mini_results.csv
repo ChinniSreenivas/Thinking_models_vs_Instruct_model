@@ -1,0 +1,790 @@
+﻿Question_No,Question,Correct_Answer,Model,Model_Answer,Is_Correct,Response_Time_Seconds,Full_Response
+1,Sarah has 24 apples. She gives 7 to her brother and buys 15 more. How many apples does she have now?,32,gpt-4o-mini,32,True,2.206,"To find out how many apples Sarah has now, we can break down the problem into steps:
+
+1. Start with the initial number of apples: 24.
+2. Sarah gives away 7 apples to her brother: 
+   \[
+   24 - 7 = 17
+   \]
+3. Then, she buys 15 more apples:
+   \[
+   17 + 15 = 32
+   \]
+
+Thus, Sarah has 32 apples now.
+
+FINAL ANSWER: 32"
+2,A farmer has 35 chickens. He buys 18 more and then sells 12. How many chickens does he have left?,41,gpt-4o-mini,41,True,2.847,"To solve the problem, we start with the number of chickens the farmer initially has, which is 35. He then buys 18 more chickens, so we add that to the original amount:
+
+\[ 35 + 18 = 53 \]
+
+Next, the farmer sells 12 chickens, so we subtract that from the current total:
+
+\[ 53 - 12 = 41 \]
+
+Thus, the farmer has 41 chickens left.
+
+FINAL ANSWER: 41"
+3,Tom reads 12 pages every day for 5 days. He then reads another 18 pages on Saturday. How many pages did he read in total?,78,gpt-4o-mini,78,True,3.131,"To find the total number of pages Tom read, we can break it down into two parts:
+
+1. **Pages read from Monday to Friday**:  
+   Tom reads 12 pages each day for 5 days.
+   \[
+   \text{Pages from Monday to Friday} = 12 \text{ pages/day} \times 5 \text{ days} = 60 \text{ pages}
+   \]
+
+2. **Pages read on Saturday**:  
+   Tom reads an additional 18 pages on Saturday.
+
+Now, we add the pages read during the week to the pages read on Saturday:
+\[
+\text{Total pages} = 60 \text{ pages} + 18 \text{ pages} = 78 \text{ pages}
+\]
+
+Thus, the total number of pages Tom read is 78.
+
+FINAL ANSWER: 78"
+4,A box contains 48 pencils. The pencils are divided equally among 6 students. How many pencils does each student receive?,8,gpt-4o-mini,8,True,2.216,"To find out how many pencils each student receives, we need to divide the total number of pencils by the number of students. 
+
+Here, we have:
+
+- Total pencils = 48
+- Number of students = 6
+
+We perform the division:
+
+\[
+\frac{48 \text{ pencils}}{6 \text{ students}} = 8 \text{ pencils per student}
+\]
+
+Thus, each student receives 8 pencils.
+
+FINAL ANSWER: 8"
+5,Maria buys 4 notebooks at $3 each and 2 pens at $2 each. How much does she spend altogether?,16,gpt-4o-mini,16,True,6.2,"To find out how much Maria spends in total, we can break down her purchases.
+
+1. Calculate the cost of the notebooks:
+   - She buys 4 notebooks at $3 each.
+   - Total cost for notebooks = 4 notebooks * $3/notebook = $12.
+
+2. Calculate the cost of the pens:
+   - She buys 2 pens at $2 each.
+   - Total cost for pens = 2 pens * $2/pen = $4.
+
+3. Now, add the total cost of the notebooks and pens together:
+   - Total spending = Total cost of notebooks + Total cost of pens = $12 + $4 = $16.
+
+Therefore, Maria spends a total of $16.
+
+FINAL ANSWER: 16"
+6,"A school has 8 classrooms. Each classroom has 25 students. If 17 students are absent, how many students are present?",183,gpt-4o-mini,183,True,1.586,"To find the number of students present, we first calculate the total number of students in the school. 
+
+Total number of students = Number of classrooms × Students per classroom  
+Total number of students = 8 × 25 = 200 students
+
+Next, we subtract the number of students who are absent from the total number of students to find the number of students present.
+
+Students present = Total number of students - Students absent  
+Students present = 200 - 17 = 183 students
+
+Thus, the final answer is:
+
+FINAL ANSWER: 183"
+7,John has $60. He spends $18 on a shirt and $12 on a pair of shoes. How much money does he have left?,30,gpt-4o-mini,30,True,3.236,"To find out how much money John has left, we start with the amount he originally had, which is $60. 
+
+Next, we subtract the amounts he spent on the shirt and shoes:
+1. He spends $18 on a shirt.
+2. He spends $12 on a pair of shoes.
+
+Now, let's calculate the total amount spent:
+\[ 
+18 + 12 = 30 
+\]
+
+Next, we subtract this total from the original amount:
+\[ 
+60 - 30 = 30 
+\]
+
+Therefore, John has $30 left.
+
+FINAL ANSWER: 30"
+8,A baker makes 120 cookies. He packs them equally into 10 boxes. How many cookies are in each box?,12,gpt-4o-mini,12,True,2.109,"To find out how many cookies are in each box, we need to divide the total number of cookies by the number of boxes.
+
+The total number of cookies is 120, and the number of boxes is 10. 
+
+So, we perform the division:
+\[ 
+\text{Cookies per box} = \frac{120 \text{ cookies}}{10 \text{ boxes}} = 12 \text{ cookies per box} 
+\]
+
+Thus, each box contains 12 cookies.
+
+FINAL ANSWER: 12"
+9,Lisa walks 3 kilometers in the morning and 5 kilometers in the evening for 4 days. How many kilometers does she walk in total?,32,gpt-4o-mini,32,True,2.297,"To find out how many kilometers Lisa walks in total, we need to first calculate the distance she walks in one day:
+
+- In the morning, she walks 3 kilometers.
+- In the evening, she walks 5 kilometers.
+
+Adding these two distances gives us the total distance Lisa walks in one day:
+
+\[
+3 \text{ km} + 5 \text{ km} = 8 \text{ km per day}
+\]
+
+Now, since Lisa walks this distance for 4 days, we multiply the daily distance by the number of days:
+
+\[
+8 \text{ km/day} \times 4 \text{ days} = 32 \text{ km}
+\]
+
+Thus, the total distance Lisa walks over the 4 days is:
+
+FINAL ANSWER: 32"
+10,A store has 75 red balloons and 45 blue balloons. It sells 38 balloons. How many balloons remain?,82,gpt-4o-mini,82,True,2.104,"To find the number of balloons that remain after selling 38, we start with the total number of balloons. 
+
+The store has:
+- 75 red balloons
+- 45 blue balloons
+
+Total balloons:
+\[ 
+75 + 45 = 120 
+\]
+
+Next, we subtract the number of balloons sold:
+\[
+120 - 38 = 82 
+\]
+
+So, the number of balloons remaining is 82.
+
+FINAL ANSWER: 82"
+11,A farmer collects 84 eggs and puts 12 eggs in each carton. How many cartons can he fill?,7,gpt-4o-mini,7,True,2.05,"To determine how many cartons the farmer can fill, we need to divide the total number of eggs by the number of eggs that can fit in each carton.
+
+The total number of eggs is 84, and each carton holds 12 eggs. 
+
+We perform the division:
+
+\[
+\frac{84}{12} = 7
+\]
+
+This means the farmer can fill 7 cartons.
+
+FINAL ANSWER: 7"
+12,David earns $15 per hour. He works 6 hours on Monday and 4 hours on Tuesday. How much does he earn in total?,150,gpt-4o-mini,150,True,2.363,"To find out how much David earns in total, we need to calculate his earnings for both days.
+
+1. **Earnings on Monday**: 
+   - Hours worked = 6 hours
+   - Hourly rate = $15
+   - Earnings on Monday = 6 hours × $15/hour = $90
+
+2. **Earnings on Tuesday**: 
+   - Hours worked = 4 hours
+   - Hourly rate = $15
+   - Earnings on Tuesday = 4 hours × $15/hour = $60
+
+3. **Total Earnings**:
+   - Total earnings = Earnings on Monday + Earnings on Tuesday 
+   - Total earnings = $90 + $60 = $150
+
+Therefore, David earns a total of $150.
+
+FINAL ANSWER: 150"
+13,A library has 250 books. It receives 75 new books and gives away 40 old books. How many books does it have now?,285,gpt-4o-mini,285,True,2.694,"To find out how many books the library has now, we need to follow these steps:
+
+1. Start with the initial number of books: 250.
+2. Add the number of new books received: 250 + 75 = 325.
+3. Subtract the number of old books given away: 325 - 40 = 285.
+
+Now, the library has 285 books.
+
+FINAL ANSWER: 285"
+14,Emma has 5 bags containing 8 candies each. She gives 12 candies to her friends. How many candies does she have left?,28,gpt-4o-mini,28,True,2.369,"To determine how many candies Emma has left, we start by calculating the total number of candies she initially has. 
+
+Emma has 5 bags with 8 candies each, so we multiply:
+
+\[ 
+5 \times 8 = 40 
+\]
+
+This means she starts with 40 candies. 
+
+Next, we account for the 12 candies she gives away:
+
+\[ 
+40 - 12 = 28 
+\]
+
+Thus, after giving away the candies, Emma has 28 candies left.
+
+FINAL ANSWER: 28"
+15,A train travels 60 kilometers per hour for 4 hours. How far does it travel?,240,gpt-4o-mini,240,True,2.112,"To find out how far the train travels, we can use the formula:
+
+Distance = Speed × Time
+
+Here, the speed of the train is 60 kilometers per hour, and it travels for 4 hours. 
+
+Calculating the distance:
+
+Distance = 60 km/h × 4 h = 240 km
+
+Thus, the train travels 240 kilometers.
+
+FINAL ANSWER: 240"
+16,A teacher has 96 stickers and wants to distribute them equally among 8 students. How many stickers does each student receive?,12,gpt-4o-mini,12,True,1.804,"To find out how many stickers each student receives, we can divide the total number of stickers by the number of students.
+
+Total stickers = 96
+Number of students = 8
+
+Now, divide:
+
+\[
+96 \div 8 = 12
+\]
+
+So, each student receives 12 stickers.
+
+FINAL ANSWER: 12"
+17,"A restaurant prepares 150 sandwiches. During lunch, it sells 95 sandwiches. It prepares another 40 sandwiches afterward. How many sandwiches does it have?",95,gpt-4o-mini,95,True,2.079,"To find out how many sandwiches the restaurant has after selling some and preparing more, we can break it down step-by-step:
+
+1. Start with the initial number of sandwiches prepared: 150.
+2. After selling 95 sandwiches, we subtract that from the initial number:
+   \[
+   150 - 95 = 55
+   \]
+   So, there are 55 sandwiches left.
+3. Next, the restaurant prepares an additional 40 sandwiches:
+   \[
+   55 + 40 = 95
+   \]
+
+Therefore, the total number of sandwiches the restaurant has after selling and preparing is 95.
+
+FINAL ANSWER: 95"
+18,Mike saves $20 every week for 8 weeks. He then spends $35. How much money does he have left?,125,gpt-4o-mini,125,True,4.028,"First, we calculate how much money Mike saves in total over 8 weeks. Since he saves $20 every week, the total savings can be calculated as follows:
+
+\[
+\text{Total savings} = 20 \text{ dollars/week} \times 8 \text{ weeks} = 160 \text{ dollars}
+\]
+
+Next, we account for the amount he spends. He spends $35, so we subtract this from his total savings:
+
+\[
+\text{Remaining money} = 160 \text{ dollars} - 35 \text{ dollars} = 125 \text{ dollars}
+\]
+
+Thus, the amount of money Mike has left is:
+
+FINAL ANSWER: 125"
+19,A factory produces 125 toys each day. How many toys does it produce in 6 days?,750,gpt-4o-mini,750,True,3.907,"To find out how many toys the factory produces in 6 days, we can multiply the number of toys produced each day by the number of days.
+
+We know:
+- Toys produced each day = 125
+- Number of days = 6
+
+Now, we perform the multiplication:
+
+\[ 
+125 \text{ toys/day} \times 6 \text{ days} = 750 \text{ toys}
+\]
+
+Thus, the total number of toys produced in 6 days is 750.
+
+FINAL ANSWER: 750"
+20,There are 72 students going on a trip. Each bus can carry 24 students. How many buses are needed?,3,gpt-4o-mini,3,True,2.19,"To determine how many buses are needed to carry 72 students, we divide the total number of students by the capacity of each bus.
+
+\[
+\text{Number of buses} = \frac{\text{Total students}}{\text{Capacity of each bus}} = \frac{72}{24} = 3
+\]
+
+Therefore, 3 buses are needed.
+
+FINAL ANSWER: 3"
+21,A fruit seller has 40 oranges. He sells 25% of them. How many oranges does he have left?,30,gpt-4o-mini,30,True,2.175,"To find out how many oranges the fruit seller has left after selling 25% of his 40 oranges, we can follow these steps:
+
+1. Calculate 25% of 40 oranges:
+   \[
+   25\% \text{ of } 40 = \frac{25}{100} \times 40 = 10
+   \]
+
+2. Subtract the number of oranges sold from the total:
+   \[
+   40 - 10 = 30
+   \]
+
+Therefore, the fruit seller has 30 oranges left.
+
+FINAL ANSWER: 30"
+22,A shirt costs $40. It is discounted by $8. What is the final price of the shirt?,32,gpt-4o-mini,32,True,2.879,"To find the final price of the shirt after the discount, we subtract the discount amount from the original price.
+
+Original price of the shirt = $40  
+Discount = $8  
+
+Final price = Original price - Discount  
+Final price = $40 - $8 = $32  
+
+Therefore, the final price of the shirt is $32.
+
+FINAL ANSWER: 32"
+23,A farmer has 6 fields. Each field produces 45 kilograms of wheat. He sells 120 kilograms. How many kilograms remain?,150,gpt-4o-mini,150,True,2.481,"To solve the problem, we first need to determine the total amount of wheat produced by the farmer.
+
+1. Each field produces 45 kilograms of wheat.
+2. The farmer has 6 fields, so the total production is:
+   \[
+   6 \times 45 = 270 \text{ kilograms}
+   \]
+
+Next, we calculate how much wheat remains after the farmer sells some:
+
+1. The farmer sells 120 kilograms of wheat, so we subtract this from the total production:
+   \[
+   270 - 120 = 150 \text{ kilograms}
+   \]
+
+Thus, the amount of wheat that remains is 150 kilograms.
+
+FINAL ANSWER: 150"
+24,A movie starts at 2:30 PM and lasts 2 hours and 15 minutes. What time does the movie end?,4:45 PM,gpt-4o-mini,4,False,1.617,"To determine the end time of the movie, we take the start time of 2:30 PM and add the duration of 2 hours and 15 minutes.
+
+1. Start time: 2:30 PM
+2. Adding 2 hours brings us to 4:30 PM.
+3. Adding another 15 minutes to 4:30 PM results in 4:45 PM.
+
+Thus, the movie ends at 4:45 PM.
+
+FINAL ANSWER: 4:45 PM"
+25,A shop sells pencils for $2 each. A customer buys 7 pencils and pays with a $20 bill. How much change does the customer receive?,6,gpt-4o-mini,6,True,3.273,"To find the change the customer receives, we first need to calculate the total cost of the 7 pencils.
+
+The cost per pencil is $2. Therefore, the total cost for 7 pencils is:
+\[
+7 \text{ pencils} \times 2 \text{ dollars/pencil} = 14 \text{ dollars}
+\]
+
+Next, we determine how much the customer pays with:
+\[
+20 \text{ dollars} 
+\]
+
+To find the change, we subtract the total cost from the amount paid:
+\[
+20 \text{ dollars} - 14 \text{ dollars} = 6 \text{ dollars}
+\]
+
+Thus, the customer receives $6 in change.
+
+FINAL ANSWER: 6"
+26,A family uses 15 liters of water each day. How much water do they use in 7 days?,105,gpt-4o-mini,105,True,2.425,"To find out how much water the family uses in 7 days, we multiply the daily water usage by the number of days:
+
+\[
+\text{Total water usage} = \text{Daily usage} \times \text{Number of days}
+\]
+
+Substituting in the values:
+
+\[
+\text{Total water usage} = 15 \text{ liters/day} \times 7 \text{ days} = 105 \text{ liters}
+\]
+
+So, the family uses 105 liters of water in 7 days.
+
+FINAL ANSWER: 105"
+27,"There are 9 shelves in a library. Each shelf holds 32 books. If 45 books are removed, how many books remain?",243,gpt-4o-mini,243,True,2.988,"To find out how many books remain in the library, we first need to calculate the total number of books before any are removed. 
+
+There are 9 shelves, and each shelf holds 32 books:
+
+\[
+\text{Total books} = 9 \text{ shelves} \times 32 \text{ books/shelf} = 288 \text{ books}
+\]
+
+Next, we subtract the 45 books that were removed from this total:
+
+\[
+\text{Books remaining} = 288 \text{ books} - 45 \text{ books} = 243 \text{ books}
+\]
+
+Thus, the total number of books remaining after removing 45 books is 243.
+
+FINAL ANSWER: 243"
+28,A cyclist travels 18 kilometers in the morning and twice that distance in the afternoon. How many kilometers does the cyclist travel altogether?,54,gpt-4o-mini,54,True,1.918,"First, we calculate the distance the cyclist travels in the afternoon. Since the cyclist travels twice the morning distance of 18 kilometers, we compute:
+
+\[
+\text{Afternoon distance} = 2 \times 18 = 36 \text{ kilometers}
+\]
+
+Next, we add the distance traveled in the morning to the distance traveled in the afternoon to find the total distance:
+
+\[
+\text{Total distance} = 18 + 36 = 54 \text{ kilometers}
+\]
+
+Thus, the cyclist travels a total of 54 kilometers altogether.
+
+FINAL ANSWER: 54"
+29,A class has 40 students. 60% of the students are girls. How many boys are in the class?,16,gpt-4o-mini,16,True,1.855,"To find the number of boys in the class, we first need to calculate the number of girls.
+
+1. **Calculate the number of girls**: 
+   \[
+   \text{Number of girls} = 60\% \text{ of } 40 = 0.60 \times 40 = 24
+   \]
+
+2. **Calculate the number of boys**: 
+   \[
+   \text{Number of boys} = \text{Total students} - \text{Number of girls} = 40 - 24 = 16
+   \]
+
+Therefore, there are 16 boys in the class.
+
+FINAL ANSWER: 16"
+30,A farmer has 150 kilograms of rice. He packs it into bags containing 5 kilograms each. He sells 18 bags. How many kilograms of rice remain?,60,gpt-4o-mini,60,True,7.736,"To solve this problem, we start by calculating how much rice is sold. 
+
+1. Each bag contains 5 kilograms of rice.
+2. The farmer sells 18 bags, so the total amount of rice sold is:
+   \[
+   18 \text{ bags} \times 5 \text{ kg/bag} = 90 \text{ kg}
+   \]
+
+3. Next, we find out how much rice remains after selling 90 kilograms:
+   \[
+   150 \text{ kg} - 90 \text{ kg} = 60 \text{ kg}
+   \]
+
+Thus, the amount of rice that remains is 60 kilograms.
+
+FINAL ANSWER: 60"
+31,A company has 240 employees. One-quarter of them work remotely. How many employees work in the office?,180,gpt-4o-mini,180,True,2.476,"To find out how many employees work in the office, we first determine how many employees work remotely.
+
+One-quarter of the 240 employees work remotely:
+\[
+\text{Employees working remotely} = \frac{1}{4} \times 240 = 60
+\]
+
+Now, to find the number of employees who work in the office, we subtract the number of remote employees from the total number of employees:
+\[
+\text{Employees working in the office} = 240 - 60 = 180
+\]
+
+Thus, the final answer is:
+
+FINAL ANSWER: 180"
+32,A store receives 300 bottles. It sells 40 bottles each day for 5 days. How many bottles are left?,100,gpt-4o-mini,100,True,2.264,"To find out how many bottles are left after selling for 5 days, we first calculate the total number of bottles sold.
+
+The store sells 40 bottles each day for 5 days:
+
+\[
+\text{Total bottles sold} = 40 \text{ bottles/day} \times 5 \text{ days} = 200 \text{ bottles}
+\]
+
+Next, we subtract the total number of bottles sold from the initial number of bottles received:
+
+\[
+\text{Bottles left} = \text{Initial bottles} - \text{Bottles sold} = 300 - 200 = 100
+\]
+
+Therefore, the number of bottles left is:
+
+FINAL ANSWER: 100"
+33,Anna buys 3 dresses for $25 each. She also buys a handbag for $40. What is her total spending?,115,gpt-4o-mini,115,True,1.927,"First, we calculate the total cost of the dresses:
+
+\[
+\text{Total cost of dresses} = \text{Number of dresses} \times \text{Cost per dress} = 3 \times 25 = 75
+\]
+
+Next, we add the cost of the handbag:
+
+\[
+\text{Total spending} = \text{Total cost of dresses} + \text{Cost of handbag} = 75 + 40 = 115
+\]
+
+Thus, Anna's total spending is $115.
+
+FINAL ANSWER: 115"
+34,A school orders 15 boxes of pencils. Each box contains 24 pencils. The school distributes 250 pencils to students. How many pencils remain?,110,gpt-4o-mini,110,True,2.332,"To find out how many pencils remain after distributing some, we first calculate the total number of pencils the school orders.
+
+1. **Total Pencils Ordered**:
+   \[
+   \text{Total Pencils} = \text{Number of Boxes} \times \text{Pencils per Box} = 15 \times 24 = 360
+   \]
+
+2. **Pencils Distributed**:
+   \[
+   \text{Pencils Distributed} = 250
+   \]
+
+3. **Remaining Pencils**:
+   \[
+   \text{Remaining Pencils} = \text{Total Pencils} - \text{Pencils Distributed} = 360 - 250 = 110
+   \]
+
+Thus, the number of pencils that remain is 110.
+
+FINAL ANSWER: 110"
+35,"A farmer plants 8 rows of trees with 15 trees in each row. Later, 17 trees die. How many trees are still alive?",103,gpt-4o-mini,103,True,2.507,"To find the number of trees still alive, we start with the total number of trees planted.
+
+1. **Calculate the total number of trees**: 
+   \[
+   \text{Total trees} = \text{Number of rows} \times \text{Number of trees per row} = 8 \text{ rows} \times 15 \text{ trees/row} = 120 \text{ trees}
+   \]
+
+2. **Subtract the number of dead trees**: 
+   \[
+   \text{Alive trees} = \text{Total trees} - \text{Dead trees} = 120 - 17 = 103
+   \]
+
+Thus, the number of trees still alive is 103.
+
+FINAL ANSWER: 103"
+36,A worker earns $18 per hour for the first 8 hours and $27 per hour for 2 overtime hours. How much does the worker earn that day?,198,gpt-4o-mini,198,True,4.28,"To calculate the worker's total earnings for the day, we need to break it down into two parts: the regular hours worked and the overtime hours worked.
+
+1. **Regular Earnings**: 
+   - The worker earns $18 per hour for the first 8 hours.
+   - \( 8 \text{ hours} \times 18 \text{ dollars/hour} = 144 \text{ dollars} \).
+
+2. **Overtime Earnings**:
+   - The worker earns $27 per hour for 2 overtime hours.
+   - \( 2 \text{ hours} \times 27 \text{ dollars/hour} = 54 \text{ dollars} \).
+
+Now, we add the regular earnings and overtime earnings together:
+
+\[
+\text{Total Earnings} = \text{Regular Earnings} + \text{Overtime Earnings} = 144 \text{ dollars} + 54 \text{ dollars} = 198 \text{ dollars}.
+\]
+
+Thus, the worker earns a total of $198 that day.
+
+FINAL ANSWER: 198"
+37,A water tank contains 500 liters. A family uses 75 liters in the morning and 125 liters in the evening. How many liters remain?,300,gpt-4o-mini,300,True,2.448,"To find out how many liters remain in the water tank after the family uses some, we need to subtract the total amount of water used from the initial amount in the tank.
+
+1. The initial volume in the tank is 500 liters.
+2. The family uses 75 liters in the morning and 125 liters in the evening.
+3. Total water used = 75 liters + 125 liters = 200 liters.
+4. Remaining water = 500 liters - 200 liters = 300 liters.
+
+Thus, the amount of water remaining in the tank is 300 liters.
+
+FINAL ANSWER: 300"
+38,"A bookstore sells 45 books on Monday, 60 on Tuesday, and twice as many as Monday on Wednesday. How many books does it sell over the three days?",195,gpt-4o-mini,195,True,2.513,"Let's break it down day by day:
+
+- **Monday:** The bookstore sells 45 books.
+- **Tuesday:** The bookstore sells 60 books.
+- **Wednesday:** The bookstore sells twice as many as Monday, so that's \(2 \times 45 = 90\) books.
+
+Now, we add the total number of books sold over the three days:
+
+\[
+45 + 60 + 90 = 195
+\]
+
+Thus, the bookstore sells a total of 195 books over the three days.
+
+FINAL ANSWER: 195"
+39,A class collects $480 for a charity. They divide the money equally among 12 organizations. How much does each organization receive?,115,gpt-4o-mini,40,False,2.801,"To determine how much each organization receives, we divide the total amount of money collected by the number of organizations. Here, the total amount is $480, and there are 12 organizations.
+
+Calculating this:
+
+\[
+\text{Amount per organization} = \frac{480}{12}
+\]
+
+Now performing the division:
+
+\[
+480 \div 12 = 40
+\]
+
+Thus, each organization receives $40.
+
+FINAL ANSWER: 40"
+40,A car has a fuel tank that holds 60 liters. It currently contains 18 liters. The driver adds 25 liters and then uses 12 liters. How much fuel is left?,40,gpt-4o-mini,31,False,1.903,"To determine how much fuel is left in the tank after the driver adds and uses fuel, we can follow these steps:
+
+1. **Initial fuel**: The car currently has 18 liters of fuel.
+2. **Fuel added**: The driver adds 25 liters. 
+   - New total: \( 18 + 25 = 43 \) liters.
+3. **Fuel used**: The driver uses 12 liters. 
+   - Final total: \( 43 - 12 = 31 \) liters.
+
+Thus, the amount of fuel left in the tank is 31 liters.
+
+FINAL ANSWER: 31"
+41,A farmer has 4 cows. Each cow produces 12 liters of milk per day. How much milk do the cows produce in 7 days?,31,gpt-4o-mini,336,False,3.437,"To find the total milk production of the cows in 7 days, we first calculate the daily production of all the cows.
+
+Each cow produces 12 liters of milk per day. With 4 cows, the total daily production is:
+
+\[
+4 \text{ cows} \times 12 \text{ liters/cow} = 48 \text{ liters/day}
+\]
+
+Next, we multiply the daily production by the number of days (7 days):
+
+\[
+48 \text{ liters/day} \times 7 \text{ days} = 336 \text{ liters}
+\]
+
+Thus, the total milk produced by the cows in 7 days is 336 liters.
+
+FINAL ANSWER: 336"
+42,"A school has 5 grades. Each grade has 4 classes, and each class has 25 students. How many students are there in the school?",336,gpt-4o-mini,500,False,2.285,"To determine the total number of students in the school, we can follow these steps:
+
+1. **Calculate the total number of classes**: 
+   - There are 5 grades, and each grade has 4 classes.
+   \[
+   \text{Total classes} = 5 \text{ grades} \times 4 \text{ classes/grade} = 20 \text{ classes}
+   \]
+
+2. **Calculate the total number of students**:
+   - Each class has 25 students.
+   \[
+   \text{Total students} = 20 \text{ classes} \times 25 \text{ students/class} = 500 \text{ students}
+   \]
+
+Thus, the total number of students in the school is 500.
+
+FINAL ANSWER: 500"
+43,A family buys 6 pizzas. Each pizza is cut into 8 slices. They eat 35 slices. How many slices are left?,240,gpt-4o-mini,13,False,2.418,"To find out how many slices are left, we start by calculating the total number of slices from the 6 pizzas.
+
+Each pizza has 8 slices, so:
+\[
+6 \text{ pizzas} \times 8 \text{ slices per pizza} = 48 \text{ slices}
+\]
+
+Next, we know they ate 35 slices. We subtract the number of slices eaten from the total number of slices to find the number of slices left:
+\[
+48 \text{ slices} - 35 \text{ slices} = 13 \text{ slices}
+\]
+
+So, the number of slices left is 13.
+
+FINAL ANSWER: 13"
+44,"A company ships 360 packages equally among 9 trucks. Each truck makes 4 trips. If the packages are divided equally among the trips, how many packages are delivered per trip?",13,gpt-4o-mini,10,False,2.091,"To solve this problem, we need to follow these steps:
+
+1. **Calculate the number of packages per truck**: 
+   \[
+   \text{Packages per truck} = \frac{360 \text{ packages}}{9 \text{ trucks}} = 40 \text{ packages per truck}
+   \]
+
+2. **Calculate the total number of trips made by all trucks**:
+   \[
+   \text{Total trips} = 9 \text{ trucks} \times 4 \text{ trips per truck} = 36 \text{ trips}
+   \]
+
+3. **Determine how many packages are delivered per trip**:
+   \[
+   \text{Packages per trip} = \frac{360 \text{ packages}}{36 \text{ trips}} = 10 \text{ packages per trip}
+   \]
+
+Thus, the total packages delivered per trip is 10.
+
+FINAL ANSWER: 10"
+45,A shop buys a phone for $200 and sells it for $260. What is the profit?,10,gpt-4o-mini,60,False,2.002,"To find the profit, we subtract the cost price from the selling price. 
+
+- Cost price = $200
+- Selling price = $260
+
+Profit = Selling price - Cost price  
+Profit = $260 - $200 = $60
+
+Thus, the profit is $60.
+
+FINAL ANSWER: 60"
+46,"A student gets scores of 75, 82, 91, and 72 on four tests. What is the student's average score?",60,gpt-4o-mini,80,False,1.537,"To find the average score, we need to add all the test scores together and then divide by the number of tests.
+
+1. Add the scores:
+   \( 75 + 82 + 91 + 72 = 320 \)
+
+2. Divide the total score by the number of tests:
+   \( \text{Average} = \frac{320}{4} = 80 \)
+
+Thus, the student's average score is 80.
+
+FINAL ANSWER: 80"
+47,"A farmer has 240 apples. He puts 20% into storage, sells 100 apples, and gives 25 apples to his neighbors. How many apples remain?",80,gpt-4o-mini,67,False,2.517,"To solve the problem, we follow these steps:
+
+1. Calculate how many apples the farmer puts into storage:
+   \[
+   20\% \text{ of } 240 = 0.20 \times 240 = 48 \text{ apples}
+   \]
+
+2. Determine how many apples are left after putting some into storage:
+   \[
+   240 - 48 = 192 \text{ apples}
+   \]
+
+3. Now, the farmer sells 100 apples:
+   \[
+   192 - 100 = 92 \text{ apples}
+   \]
+
+4. Finally, the farmer gives away 25 apples to his neighbors:
+   \[
+   92 - 25 = 67 \text{ apples}
+   \]
+
+Thus, the total number of apples remaining is 67.
+
+FINAL ANSWER: 67"
+48,"A bus travels 45 kilometers in its first hour, 55 kilometers in its second hour, and 50 kilometers in its third hour. How far does it travel in total?",67,gpt-4o-mini,150,False,2.335,"To find the total distance traveled by the bus, we need to add the distances covered in each hour:
+
+1. First hour: 45 kilometers
+2. Second hour: 55 kilometers
+3. Third hour: 50 kilometers
+
+Now, we perform the addition:
+
+\[
+45 + 55 + 50
+\]
+
+First, we add the first two distances:
+
+\[
+45 + 55 = 100
+\]
+
+Then, we add the third distance:
+
+\[
+100 + 50 = 150
+\]
+
+Thus, the total distance traveled by the bus is 150 kilometers.
+
+FINAL ANSWER: 150"
+49,"A factory has 5 machines. Each machine produces 80 items per hour. If the machines operate for 6 hours, how many items are produced?",150,gpt-4o-mini,2400,False,2.38,"To find the total number of items produced by the machines, we can follow these steps:
+
+1. Calculate the output of one machine in 6 hours:
+   \[
+   \text{Output of one machine} = 80 \text{ items/hour} \times 6 \text{ hours} = 480 \text{ items}
+   \]
+
+2. Since there are 5 machines, we multiply the output of one machine by the number of machines:
+   \[
+   \text{Total output} = 5 \text{ machines} \times 480 \text{ items} = 2400 \text{ items}
+   \]
+
+So, the total number of items produced is 2400.
+
+FINAL ANSWER: 2400"
+50,"A family has a monthly budget of $2,000. They spend $750 on rent, $400 on food, $150 on transportation, and $200 on other expenses. How much money remains?",500,gpt-4o-mini,500,True,3.336,"To find out how much money remains in the family's budget, we first need to calculate their total spending.
+
+- Rent: $750
+- Food: $400
+- Transportation: $150
+- Other expenses: $200
+
+Now, we add these expenditures together:
+
+\[
+750 + 400 + 150 + 200 = 1500
+\]
+
+The total spending is $1,500. 
+
+Next, we subtract the total spending from the monthly budget:
+
+\[
+2000 - 1500 = 500
+\]
+
+Therefore, the amount of money that remains is $500.
+
+FINAL ANSWER: 500"

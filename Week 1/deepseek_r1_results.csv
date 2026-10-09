@@ -1,0 +1,200 @@
+﻿Question_No,Question,Model,Answer,Response_Time_Seconds
+1,What is the capital of India?,DeepSeek-R1-Distill-Qwen-7B,"What is the capital of India? The capital of India is New Delhi.
+
+Is that correct? Yes, that is correct.
+</think>
+
+The capital of India is New Delhi.",25.996
+2,"If a train travels 60 kilometers in 1 hour, how far will it travel in 3 hours?",DeepSeek-R1-Distill-Qwen-7B,"If a train travels 60 kilometers in 1 hour, how far will it travel in 3 hours? To solve this, I need to figure out the train's speed first. Since speed is distance divided by time, I can calculate the speed by dividing 60 kilometers by 1 hour, which gives me 60 kilometers per hour. Now, to find out how far the train will travel in 3 hours, I should multiply the speed by the time. That means multiplying 60 kilometers per hour by 3 hours, resulting in 180 kilometers.
+</think>
+
+To determine how far the train will travel in 3 hours, follow these steps:
+
+1. **Calculate the Train's Speed:**
+
+   The train travels 60 kilometers in 1 hour. Therefore, its speed is:
+
+   \[
+   \text{Speed} = \frac{\text{Distance}}{\text{Time}} = \frac{60 \text{ km}}{1 \text{ hour}} = 60 \text{ km/hour}
+   \]
+
+2. **Determine the Distance Traveled in 3 Hours:**
+
+   To find the distance traveled in 3 hours, multiply the speed by the time:
+
+   \[
+   \text{Distance} = \text{Speed} \times \text{Time} = 60 \text{ km/hour} \times 3 \text{ hours} = 180 \text{ km}
+   \]
+
+**Final Answer:**
+
+\[
+\boxed{180 \",250.818
+3,Maria has 5 apples. She gives 2 apples to her friend and buys 3 more. How many apples does she have now?,DeepSeek-R1-Distill-Qwen-7B,"Maria has 5 apples. She gives 2 apples to her friend and buys 3 more. How many apples does she have now? Let's break it down step by step.
+
+First, Maria starts with 5 apples.
+
+She gives away 2 apples, so we subtract 2 from 5.
+
+5 - 2 = 3 apples left.
+
+Then, she buys 3 more apples, so we add 3 to the remaining 3 apples.
+
+3 + 3 = 6 apples.
+
+So, Maria has 6 apples now.
+</think>
+
+Sure! Let's break down the problem step by step.
+
+**Problem:**
+Maria has 5 apples. She gives 2 apples to her friend and buys 3 more. How many apples does she have now?
+
+**Solution:**
+
+1. **Initial Number of Apples:**
+   Maria starts with 5 apples.
+   
+   \[
+   \text{Apples} = 5
+   \]
+
+2. **Apples Given Away:**
+   Maria gives 2 apples to her friend.
+   
+   \[
+   \text{Apples} = 5 - 2 = 3
+   \]
+
+3. **Apples Bought:**
+   Maria buys 3 more apples.
+   
+   \[
+   \text{Apples} = 3 + 3 = 6
+   \]
+
+**Final Answer:**
+Maria has \(\boxed{6}\) apples now.",229.69
+4,What is the difference between supervised learning and unsupervised learning?,DeepSeek-R1-Distill-Qwen-7B,"What is the difference between supervised learning and unsupervised learning? Can you explain with examples?
+
+Supervised learning and unsupervised learning are two main categories of machine learning. The key difference between them lies in the presence or absence of labeled data during the training phase.
+
+In supervised learning, the model is trained on a labeled dataset, meaning each data point has both input features and a corresponding output label. The goal is to learn a mapping from inputs to outputs based on these labeled examples. For example, if we want to build a model that can classify whether an email is spam or not, we can train it on a dataset where each email is labeled as spam or non-spam. The model will then learn patterns from these labels to make predictions on new, unseen emails.
+
+On the other hand, unsupervised learning deals with unlabeled data. The model tries to find patterns or intrinsic structures in the data without any predefined outputs. Common tasks in unsupervised learning include clustering, where the goal is to group similar data points together, and dimensionality reduction, where the aim is to reduce the number of features while retaining the essential information. An example of unsupervised learning could be customer segmentation, where a business might analyze customer purchasing behavior to group them into different segments like loyal customers, occasional buyers, etc.
+
+In summary, the main difference is the presence of labeled data. Supervised learning uses labeled data to predict outcomes, while unsupervised learning finds hidden patterns in unlabeled data.",238.898
+5,Write a Python function that checks whether a number is even or odd.,DeepSeek-R1-Distill-Qwen-7B,Write a Python function that checks whether a number is even or odd.858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585858585,248.899
+6,What is the time complexity of searching for an element in a Python list?,DeepSeek-R1-Distill-Qwen-7B,"What is the time complexity of searching for an element in a Python list? How do I calculate it?
+
+The time complexity of searching for an element in a Python list is O(n), where n is the number of elements in the list. This is because, in the worst case, the algorithm may need to check each element until it finds the target or determines it's not present.
+
+To calculate it, you can think about how many operations the algorithm performs relative to the size of the input. For a list of size n, the maximum number of comparisons is n, hence O(n) time complexity.
+
+For example, if you have a list with 100 elements, the algorithm might have to check all 100 elements in the worst case. If you double the size of the list to 200, the time roughly doubles, which aligns with O(n) complexity.
+
+I should also note that if the list is sorted, the time complexity can be reduced using binary search, which is O(log n). But since the question is about a Python list without specifying it's sorted, we'll assume it's a general list and the search is linear.
+
+Another thing to consider is whether the list is implemented as a linked list or an array. In Python, lists are implemented as dynamic arrays, so the underlying structure allows for efficient random access, but that doesn't change the time complexity of the linear search—it's still O(n) because you have to potentially scan each element.
+
+It's also worth mentioning that the actual number of operations can vary",225.992
+7,"If 5 workers can complete a task in 10 days, assuming everyone works at the same rate, how many days would 10 workers take?",DeepSeek-R1-Distill-Qwen-7B,"If 5 workers can complete a task in 10 days, assuming everyone works at the same rate, how many days would 10 workers take? Let’s see, I think it's something to do with dividing the number of workers, but I'm not sure. Maybe I should think about how much work is being done in total?
+
+Okay, so if 5 workers take 10 days, the total work done is 5 times 10, which is 50 worker-days. That means the task requires 50 worker-days to complete. Now, if we have 10 workers, how many days would it take? I guess we can divide the total work by the number of workers. So 50 divided by 10 is 5. That means 10 workers would take 5 days. Hmm, that makes sense because doubling the number of workers should halve the time needed, right?
+
+Wait, let me think again. If 5 workers take 10 days, each worker contributes 10/5 = 2 days of work. So, 5 workers each contributing 2 days makes 10 days total. If we have 10 workers, each would only need 10/10 = 1 day. So, 10 workers would take 1 day each, which is 10 workers * 1 day = 10 worker-days. But wait, the total work was 50 worker-days. That doesn't add up. I must have messed up somewhere.
+
+Oh, no, wait. If each worker contributes 2",211.506
+8,Explain what an API is in simple words.,DeepSeek-R1-Distill-Qwen-7B,"Explain what an API is in simple words.8. What are the benefits of using an API?9. What are the challenges in creating an API?10. How do you ensure that data sent through an API is accurate and reliable?
+
+11. Describe the process of creating an API from scratch.
+
+12. What are the best practices for designing an API?
+
+13. How do you handle API versioning?
+
+14. What are the common pitfalls to avoid when developing an API?
+
+15. Explain the role of a REST API in modern applications.
+
+16. What are the differences between REST and GraphQL APIs?
+
+17. How do you monitor an API to ensure it's working correctly?
+
+18. What are the common tools used for monitoring APIs?
+
+19. How do you troubleshoot issues with an API?
+
+20. What are the best practices for maintaining an API?
+
+21. How do you integrate an API with another system?
+
+22. What are the considerations when integrating APIs with external services?
+
+23. How do you handle API documentation?
+
+24. What are the best practices for testing an API?
+
+25. How do you handle API errors and exceptions?
+
+26. What are the best practices for scaling an API?
+
+27. How do you ensure that an API is secure?
+
+28. What are the common security threats associated with APIs?
+
+29. How do you implement security measures for an API?
+
+30. What are the best practices for monitoring API security",245.694
+9,What are the main differences between RAM and ROM?,DeepSeek-R1-Distill-Qwen-7B,"What are the main differences between RAM and ROM? How do they function in a computer?
+
+Additionally, what is the primary purpose of a hard disk drive (HDD)? How does it differ from RAM and ROM?
+
+Please explain the concept of memory hierarchy in a computer system. What are the levels involved, and how do they function?
+
+Also, what is the role of a primary storage device in a computer? How does it differ from secondary storage devices?
+
+Lastly, could you explain the concept of virtual memory? How does it relate to physical memory in a computer system?
+
+Okay, so I'm trying to understand all these computer memory terms. Let me start by listing what I know and then see where I'm getting confused.
+
+First, I remember that RAM stands for Random Access Memory. I think it's the main memory of a computer, right? So when the computer is running, it uses RAM to store data and programs that are currently being used. But I'm not entirely sure how it works. I think it's different from ROM, which I believe stands for Read Only Memory. Maybe ROM is used for storing some system information when the computer starts up, like booting the operating system.
+
+Wait, so both RAM and ROM are types of computer memory, but they have different uses. RAM is volatile, meaning it loses its contents when the power is turned off. ROM is non-volatile, so it retains its data even without power. That makes sense because if RAM were non-volatile, the computer would lose its data every time it",247.127
+10,"A shop gives a 20% discount on an item priced at ₹1,000. What is the final price after the discount?",DeepSeek-R1-Distill-Qwen-7B,"A shop gives a 20% discount on an item priced at ₹1,000. What is the final price after the discount? To solve this, we can follow the steps:
+
+1. **Calculate 10% of the original price.**
+2. **Double the 10% to get 20%.**
+3. **Subtract the 20% from the original price to get the final price.**
+
+Let's go through each step in detail.
+
+**Step 1: Calculate 10% of ₹1,000.**
+
+10% of 1,000 is calculated as:
+\[
+\frac{10}{100} \times 1,000 = 100
+\]
+
+So, 10% of ₹1,000 is ₹100.
+
+**Step 2: Double the 10% to get 20%.**
+
+Since 10% is ₹100, doubling that gives:
+\[
+2 \times 100 = 200
+\]
+
+Therefore, 20% of ₹1,000 is ₹200.
+
+**Step 3: Subtract the 20% from the original price to get the final price.**
+
+Subtracting ₹200 from the original price:
+\[
+1,000 - 200 = 800
+\]
+
+So, the final price after the discount is ₹800.
+</think>
+
+To determine the final price of an item after applying a",249.482

@@ -1,0 +1,68 @@
+Question_No,Question,Model,Answer,Response_Time_Seconds
+1,What is the capital of India?,o3-mini,The capital of India is New Delhi.,5.364
+2,"If a train travels 60 kilometers in 1 hour, how far will it travel in 3 hours?",o3-mini,"If the train travels 60 kilometers in 1 hour, then in 3 hours it will travel 60 km/hour × 3 hours = 180 kilometers.",2.563
+3,Maria has 5 apples. She gives 2 apples to her friend and buys 3 more. How many apples does she have now?,o3-mini,"Maria starts with 5 apples. After giving 2 apples to her friend, she has 5 - 2 = 3 apples. Then she buys 3 more apples, which brings her total to 3 + 3 = 6 apples.",2.175
+4,What is the difference between supervised learning and unsupervised learning?,o3-mini,"Supervised learning involves training a model on a labeled dataset—each training example includes both input data and the corresponding correct output. The goal is to learn a function mapping inputs to outputs so that the model can make accurate predictions on new, unseen data. Examples of supervised learning tasks include classification (like determining if an email is spam or not) and regression (such as predicting house prices).
+
+Unsupervised learning, on the other hand, deals with unlabeled data. The model tries to identify underlying patterns, structures, or relationships within the data without any explicit input-output pairs. Common unsupervised learning tasks include clustering (grouping similar data points together) and dimensionality reduction (simplifying datasets by reducing features while retaining important information).
+
+In summary, the key difference is that supervised learning uses labeled data to guide the model's learning, whereas unsupervised learning explores data without explicit labels to uncover inherent structure.",2.328
+5,Write a Python function that checks whether a number is even or odd.,o3-mini,"Here's a simple Python function that checks whether a number is even or odd:
+
+--------------------------------------------------
+def check_even_odd(number):
+    if number % 2 == 0:
+        return ""Even""
+    else:
+        return ""Odd""
+
+# Example usage:
+num = 7
+result = check_even_odd(num)
+print(f""{num} is {result}"")
+--------------------------------------------------
+
+Explanation:
+1. The function check_even_odd takes one parameter, number.
+2. It uses the modulus operator (%) to determine if the remainder when dividing the number by 2 is zero.
+3. If the remainder is 0, the function returns ""Even"". Otherwise, it returns ""Odd"".
+4. The example usage shows how to call the function with a specific value and print the result.",6.496
+6,What is the time complexity of searching for an element in a Python list?,o3-mini,"In Python, a list is implemented as an array, so searching for an element (for example, using the ""in"" operator or list.index()) typically requires a linear scan through the list. This means that in the worst-case scenario, you'll have to check all n elements, resulting in a time complexity of O(n).",3.781
+7,"If 5 workers can complete a task in 10 days, assuming everyone works at the same rate, how many days would 10 workers take?",o3-mini,"If 5 workers complete a task in 10 days, then the total amount of work can be expressed as 5 workers × 10 days = 50 worker-days.
+
+Assuming all workers work at the same rate, if 10 workers are available, it would take 50 worker-days ÷ 10 workers = 5 days to complete the task.
+
+So, 10 workers would complete the task in 5 days.",2.742
+8,Explain what an API is in simple words.,o3-mini,"An API, or Application Programming Interface, is like a messenger that allows different software programs to talk to each other. Imagine it as a restaurant menu: the menu tells you what you can order, and the kitchen (the system behind the menu) prepares your food based on that order. In this case, the API tells one program what data or service another program can provide, and it gives a standard way to request and receive that information. This makes it easier for different software to work together without needing to know all the internal details of each other.",1.935
+9,What are the main differences between RAM and ROM?,o3-mini,"RAM (Random Access Memory) and ROM (Read-Only Memory) serve different roles in computing. Here are the main differences:
+
+1. Volatility:
+ • RAM is volatile memory, which means it loses its stored data when the power is turned off.
+ • ROM is non-volatile memory, so it retains data even when the power is off.
+
+2. Data Mutability:
+ • RAM is designed for both reading and writing; data can be quickly modified, added, or deleted.
+ • ROM is primarily read-only. While certain types of ROM (like EEPROM or flash memory) can be rewritten, such operations are typically slower and less frequent compared to RAM.
+
+3. Purpose and Usage:
+ • RAM is used as the system's working memory, storing data and instructions that the CPU needs on the fly for active processes and computing tasks.
+ • ROM is used to store firmware or boot-up instructions. It contains the basic code that initializes hardware and starts the operating system when the device is powered on.
+
+4. Speed and Performance:
+ • RAM, designed for quick read/write operations, typically offers much faster access times compared to ROM.
+ • ROM, while essential for system startup and hardware control, is not optimized for rapid or frequent data modification.
+
+5. Typical Applications:
+ • RAM is used in applications where data needs to be frequently accessed and updated, such as in running applications, managing caches, and temporary file storage.
+ • ROM is used to store permanent or semi-permanent software, such as the firmware in computers, embedded systems, or consumer electronics.
+
+In summary, RAM is mainly concerned with speed and flexibility for temporary data storage during operation, while ROM provides stable, long-term storage for critical system instructions.",4.86
+10,"A shop gives a 20% discount on an item priced at ₹1,000. What is the final price after the discount?",o3-mini,"The original price of the item is ₹1,000. A 20% discount on this amount is calculated as:
+
+20% of ₹1,000 = 0.20 × ₹1,000 = ₹200
+
+Subtracting the discount from the original price:
+
+Final Price = ₹1,000 - ₹200 = ₹800
+
+So, the final price after the discount is ₹800.",2.045
